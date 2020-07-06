@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Minesweeper.iml" filepath="$PROJECT_DIR$/.idea/modules/Minesweeper.iml" group="Minesweeper" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Area of a circle/Problems-Area_of_a_circle.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Area of a circle/Problems-Area_of_a_circle.iml" group="Minesweeper/Problems-Area_of_a_circle" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Distance/Problems-Distance.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Distance/Problems-Distance.iml" group="Minesweeper/Problems-Distance" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Evaluate an expression/Problems-Evaluate_an_expression.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Evaluate an expression/Problems-Evaluate_an_expression.iml" group="Minesweeper/Problems-Evaluate_an_expression" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Find X/Problems-Find_X.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Find X/Problems-Find_X.iml" group="Minesweeper/Problems-Find_X" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="Minesweeper/util" />
+    </modules>
+  </component>
+</project>
